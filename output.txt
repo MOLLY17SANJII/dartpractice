@@ -1,0 +1,10 @@
+Student Name: Angelyn J. Sopera
+Is a student: true
+Notebook Quantity: 4
+Price per Notebook: PHP 32.75
+Total Cost: PHP 131.0
+Available Budget: PHP 150.0
+Remaining Budget: PHP 19.0
+Is the purchase within budget? true
+Notebooks affordable with the budget: 4
+Quantity remainder when divided by 2: 0
